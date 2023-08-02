@@ -1,46 +1,35 @@
 # Avatar's Destiny Journey Through The Elements
 
 
-# Google Drive Link
+## Google Drive Link
 [https://drive.google.com/drive/u/0/folders/1zPjdtvClMEMNzo95qngzSyRBHPzJZ5EY](url)
 
 
-# Progress Measure:
-*At the start of the game, the player has a maximum HP of 100 points. The speed and
-strength start at 10 points each.
-*Throughout the game, the user can collect coins by defeating monsters. They will be
-rewarded 2 coins per defeated monster.
-*The shop will allow players to spend their coins and additional HP, speed, and
-strength points. The maximum health, strength, and speed, will increase by 20 points,
-10 points, and 1 point respectively and each perk can be upgraded 4 times.
-*Players will lose 5 health points when they are attacked and 2.5 health points when
-they are attacked while blocking
-*Each level rewards the player with more opportunities to collect coins since the
-number of waves per lever increases as the player progresses.
-*After each completed round, the player's health will be reset back to their maximum
-HP
-*When the player loses all their health points, the game will restart and all their
-progress resets.
+## Progress Measure
+* At the start of the game, the player has a maximum HP of 100 points. The speed and strength start at 10 points each.
+* Throughout the game, the user can collect coins by defeating monsters. They will be rewarded 2 coins per defeated monster.
+* The shop will allow players to spend their coins and additional HP, speed, and strength points. The maximum health, strength, and speed, will increase by 20 points, 10 points, and 1 point respectively and each perk can be upgraded 4 times.
+* Players will lose 5 health points when they are attacked and 2.5 health points when they are attacked while blocking
+* Each level rewards the player with more opportunities to collect coins since the number of waves per lever increases as the player progresses.
+* After each completed round, the player's health will be reset back to their maximum HP
+* When the player loses all their health points, the game will restart and all their progress resets.
 
 
-# Levels:
-4 Levels:
-*Level 1: Earth Level: 2 Waves
-*Level 2: Water Level: 3 Waves
-*Level 3: Fire Level: 4 Waves
-*Level 4: Air Level: 5 Waves
-*Level 5: Spirit Level: Final Boss
+## Levels
+### 4 Levels
+* Level 1: Earth Level: 2 Waves
+* Level 2: Water Level: 3 Waves
+* Level 3: Fire Level: 4 Waves
+* Level 4: Air Level: 5 Waves
+* Level 5: Spirit Level: Final Boss
 
 
-# Character Customization & Character Progression:
-*Before the final boss fight, the player can choose a new outfit for their character. They
-can either choose an earth outfit, a shadow skin, or keep their current outfit.
-*The coins collected through each level, he can buy any of those above mentioned in
-the store. The degree of health, strength, or speed is dependant on the amount of coins
-the player wants to spend
+## Character Customization & Character Progression
+* Before the final boss fight, the player can choose a new outfit for their character. They can either choose an earth outfit, a shadow skin, or keep their current outfit.
+* The coins collected through each level, he can buy any of those above mentioned in the store. The degree of health, strength, or speed is dependant on the amount of coins the player wants to spend
 
 
-# Game Design
+## Game Design
 One day a dark force appeared, and it was led by a powerful Dark Avatar who sought to take
 over the kingdom. The Dark Avatar is a being who has mastered all four elements, just like
 the Avatar, but has twisted his powers to serve his own selfish purposes. The Avatar knew
@@ -66,7 +55,6 @@ each level to upgrade MAX HP or upgrade attack points. You can also change skins
 unlock new skins for your avatar at the end of each round.
 
 
-# Instructions:
-Install pygame library
-
-run the game.py file 
+## Instructions:
+* Install pygame library
+* run the game.py file 

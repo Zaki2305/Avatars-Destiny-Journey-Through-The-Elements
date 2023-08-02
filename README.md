@@ -5,9 +5,9 @@
 [https://drive.google.com/drive/u/0/folders/1zPjdtvClMEMNzo95qngzSyRBHPzJZ5EY](url)
 
 ## Contributing Team Members
-Sammy Cohoe [https://github.com/Sammy-Cohoe](url)
-Prey Patel [https://github.com/PreyPatell](url)
-Searan Kuganesan [https://github.com/Skugane6](url)
+* Sammy Cohoe [https://github.com/Sammy-Cohoe](url)
+* Prey Patel [https://github.com/PreyPatell](url)
+* Searan Kuganesan [https://github.com/Skugane6](url)
 
 ## Progress Measure
 * At the start of the game, the player has a maximum HP of 100 points. The speed and strength start at 10 points each.

@@ -1,2 +1,6 @@
-# Avatars-Destiny-Journey-Through-The-Elements
-Role Playing Avatar Game using python (pygame) where you go through levels and and defeat monsters and then face the final boss at the end. 
+# groupproject-team-20
+groupproject-team-20 created by GitHub Classroom
+
+Install pygame library
+
+run the game.py file 

@@ -6,36 +6,36 @@
 
 
 # Progress Measure:
-● At the start of the game, the player has a maximum HP of 100 points. The speed and
+*At the start of the game, the player has a maximum HP of 100 points. The speed and
 strength start at 10 points each.
-● Throughout the game, the user can collect coins by defeating monsters. They will be
+*Throughout the game, the user can collect coins by defeating monsters. They will be
 rewarded 2 coins per defeated monster.
-● The shop will allow players to spend their coins and additional HP, speed, and
+*The shop will allow players to spend their coins and additional HP, speed, and
 strength points. The maximum health, strength, and speed, will increase by 20 points,
 10 points, and 1 point respectively and each perk can be upgraded 4 times.
-● Players will lose 5 health points when they are attacked and 2.5 health points when
+*Players will lose 5 health points when they are attacked and 2.5 health points when
 they are attacked while blocking
-● Each level rewards the player with more opportunities to collect coins since the
+*Each level rewards the player with more opportunities to collect coins since the
 number of waves per lever increases as the player progresses.
-● After each completed round, the player's health will be reset back to their maximum
+*After each completed round, the player's health will be reset back to their maximum
 HP
-● When the player loses all their health points, the game will restart and all their
+*When the player loses all their health points, the game will restart and all their
 progress resets.
 
 
 # Levels:
-● 4 levels
-○ Level 1: Earth Level: 2 Waves
-○ Level 2: Water Level: 3 Waves
-○ Level 3: Fire Level: 4 Waves
-○ Level 4: Air Level: 5 Waves
-○ Level 5: Spirit Level: Final Boss
+4 Levels:
+*Level 1: Earth Level: 2 Waves
+*Level 2: Water Level: 3 Waves
+*Level 3: Fire Level: 4 Waves
+*Level 4: Air Level: 5 Waves
+*Level 5: Spirit Level: Final Boss
 
 
 # Character Customization & Character Progression:
-- Before the final boss fight, the player can choose a new outfit for their character. They
+*Before the final boss fight, the player can choose a new outfit for their character. They
 can either choose an earth outfit, a shadow skin, or keep their current outfit.
-- The coins collected through each level, he can buy any of those above mentioned in
+*The coins collected through each level, he can buy any of those above mentioned in
 the store. The degree of health, strength, or speed is dependant on the amount of coins
 the player wants to spend
 
